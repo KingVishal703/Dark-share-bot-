@@ -39,7 +39,7 @@ ADMINS = [
     for admin in environ.get('ADMINS', '5654093580').split()
 ]
 BOT_USERNAME = environ.get("BOT_USERNAME", "Dark_Share1Bot")  # without @
-PORT = environ.get("PORT", "80")
+PORT = environ.get("PORT", "8080")
 
 # Clone Configuration
 CLONE_MODE = is_enabled(environ.get('CLONE_MODE', "false"))
@@ -55,8 +55,8 @@ DB_NAME = environ.get("DB_NAME", "Xeonfilestore01")
 
 # Auto Delete Configuration
 AUTO_DELETE_MODE = is_enabled(environ.get('AUTO_DELETE_MODE', "true"))
-AUTO_DELETE = int(environ.get("AUTO_DELETE", "20"))  # Time in Minutes
-AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1200"))  # Time in Seconds
+AUTO_DELETE = int(environ.get("AUTO_DELETE", "30"))  # Time in Minutes
+AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800"))  # Time in Seconds
 
 # Channel Information
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002392037274"))
@@ -69,13 +69,13 @@ BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 PUBLIC_FILE_STORE = is_enabled(environ.get('PUBLIC_FILE_STORE', "false"))
 
 # Verification Configuration
-VERIFY_MODE = is_enabled(environ.get('VERIFY_MODE', "false"))
-SHORTLINK_URL = environ.get("SHORTLINK_URL", "speedlinkurl.com")
-SHORTLINK_API = environ.get("SHORTLINK_API", "af06cdd4d01fac7127756fec759b8328c1793a63")
+VERIFY_MODE = is_enabled(environ.get('VERIFY_MODE', "true"))
+SHORTLINK_URL = environ.get("SHORTLINK_URL", "zxlink.in")
+SHORTLINK_API = environ.get("SHORTLINK_API", "44b4567c4db6fac4ff58213e8704526184a088e5")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/hentai_Hanime_Update_Channel/40")
 
 # Website Mode
-WEBSITE_URL_MODE = is_enabled(environ.get('WEBSITE_URL_MODE', "true"))
+WEBSITE_URL_MODE = is_enabled(environ.get('WEBSITE_URL_MODE', "false"))
 WEBSITE_URL = environ.get(
     "WEBSITE_URL",
     "https://world-wide.blog/top-swimmers-to-watch-at-the-paris-olympics-2024"
