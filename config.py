@@ -87,7 +87,7 @@ MULTI_CLIENT = False
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
 ON_HEROKU = 'DYNO' in environ
-URL = environ.get("URL", "https://web-ysedljx4v497.up-de-fra1-k8s-1.apps.run-on-seenode.com/")
+URL = environ.get("URL", "https://select-evanne-vishalwankhede123-bb083bcf.koyeb.app/")
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
