@@ -69,7 +69,7 @@ BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 PUBLIC_FILE_STORE = is_enabled(environ.get('PUBLIC_FILE_STORE', "false"))
 
 # Verification Configuration
-VERIFY_MODE = is_enabled(environ.get('VERIFY_MODE', "false"))
+VERIFY_MODE = is_enabled(environ.get('VERIFY_MODE', "true"))
 SHORTLINK_URL = environ.get("SHORTLINK_URL", "zxlink.in")
 SHORTLINK_API = environ.get("SHORTLINK_API", "44b4567c4db6fac4ff58213e8704526184a088e5")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/hentai_Hanime_Update_Channel/40")
