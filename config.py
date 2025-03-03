@@ -22,7 +22,7 @@ def is_enabled(value, default=False):
 # Channel Authentication
 AUTH_CHANNEL = [
     int(ch) if id_pattern.search(ch) else ch
-    for ch in environ.get('AUTH_CHANNEL', '-1002441208913').split()
+    for ch in environ.get('AUTH_CHANNEL', '-1002394633791').split()
 ]
 
 # Bot Information
@@ -70,8 +70,8 @@ PUBLIC_FILE_STORE = is_enabled(environ.get('PUBLIC_FILE_STORE', "false"))
 
 # Verification Configuration
 VERIFY_MODE = is_enabled(environ.get('VERIFY_MODE', "true"))
-SHORTLINK_URL = environ.get("SHORTLINK_URL", "zxlink.in")
-SHORTLINK_API = environ.get("SHORTLINK_API", "44b4567c4db6fac4ff58213e8704526184a088e5")
+SHORTLINK_URL = environ.get("SHORTLINK_URL", "arlinks.in")
+SHORTLINK_API = environ.get("SHORTLINK_API", "71db916b274524bfb6be9e68a52f0965a0b91347")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/hentai_Hanime_Update_Channel/40")
 
 # Website Mode
