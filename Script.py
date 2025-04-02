@@ -20,11 +20,11 @@ Special Advantage If This Bot Got Banned, Your Link Will Never Expire, So Just S
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @hentai_Hanime_Update_Channel {file_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @Anime_In100 {file_name}
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/hentai_Hanime_Update_Channel)</b>""" 
+Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/+vV6MDzqcrMxkZGY1)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -60,13 +60,13 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/+oGA4kQQh8nRmYzA9>KINGSXHOT</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/+vV6MDzqcrMxkZGY1</a>
 
 ⚡ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>
 
 👥 Mᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ: <a href=https://t.me/+LEPj95JL4tg2Mjll>Mᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+kYnFJah2LvAxMzll>Bᴏᴛ 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
+📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+vV6MDzqcrMxkZGY1>Bᴏᴛ 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
