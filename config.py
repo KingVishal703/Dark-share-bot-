@@ -31,7 +31,7 @@ API_HASH = environ.get("API_HASH", "")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 # Bot Start Picture(s)
-PICS = environ.get('PICS', 'https://graph.org/file/3688b40ad4a38da0efed0-47f7fd426ede18b264.jpg').split()
+PICS = environ.get('PICS', 'https://telegra.ph/file/f198e9233986d61549659.jpg').split()
 
 # Admin Information
 ADMINS = [
