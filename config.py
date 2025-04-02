@@ -36,9 +36,9 @@ PICS = environ.get('PICS', 'https://graph.org/file/3688b40ad4a38da0efed0-47f7fd4
 # Admin Information
 ADMINS = [
     int(admin) if id_pattern.search(admin) else admin
-    for admin in environ.get('ADMINS', '5654093580').split()
+    for admin in environ.get('ADMINS', '1029462448').split()
 ]
-BOT_USERNAME = environ.get("BOT_USERNAME", "Dark_Share1Bot")  # without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "Anime_X_sharing_Bot")  # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Configuration
@@ -49,17 +49,17 @@ CDB_NAME = environ.get("CDB_NAME", "clonetechvj")
 # Database Configuration
 DB_URI = environ.get(
     "DB_URI",
-    "mongodb+srv://timed29716:jzE1SqRNktFycmVo@cluster0.kco6t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "mongodb+srv://totipa4210:xlWOaPYnIKXmAaEq@cluster0.zbd31.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 )
 DB_NAME = environ.get("DB_NAME", "Xeonfilestore01")
 
 # Auto Delete Configuration
 AUTO_DELETE_MODE = is_enabled(environ.get('AUTO_DELETE_MODE', "true"))
-AUTO_DELETE = int(environ.get("AUTO_DELETE", "30"))  # Time in Minutes
-AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800"))  # Time in Seconds
+AUTO_DELETE = int(environ.get("AUTO_DELETE", "40"))  # Time in Minutes
+AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "2400"))  # Time in Seconds
 
 # Channel Information
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002392037274"))
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002243581329"))
 
 # File Caption
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", script.CAPTION)
@@ -69,16 +69,16 @@ BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 PUBLIC_FILE_STORE = is_enabled(environ.get('PUBLIC_FILE_STORE', "false"))
 
 # Verification Configuration
-VERIFY_MODE = is_enabled(environ.get('VERIFY_MODE', "true"))
+VERIFY_MODE = is_enabled(environ.get('VERIFY_MODE', "false"))
 SHORTLINK_URL = environ.get("SHORTLINK_URL", "techvjlink.site")
 SHORTLINK_API = environ.get("SHORTLINK_API", "369b9932a447b9ada3109b5cac48d0cfc4e67f39")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/hentai_Hanime_Update_Channel/40")
 
 # Website Mode
-WEBSITE_URL_MODE = is_enabled(environ.get('WEBSITE_URL_MODE', "false"))
+WEBSITE_URL_MODE = is_enabled(environ.get('WEBSITE_URL_MODE', "true"))
 WEBSITE_URL = environ.get(
     "WEBSITE_URL",
-    "https://www.moviesking.in.net/2025/03/discover-impressive-features-of-samsung.html"
+    "https://www.personalurl.in.net/2025/03/kaise-le-personal-loan.html"
 )
 
 # File Stream Configuration
